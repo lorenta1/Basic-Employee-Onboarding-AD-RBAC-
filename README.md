@@ -6,7 +6,7 @@
 ## Solution Overview
 * I used Active Directory to create a domain in which computers, users and groups could be linked together under a single authority. I used RBAC system to ensure that users were given access according to their role.I also simulated a mock ticket where a user was given the wrong scope of access.
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+* https://www.loom.com/share/8987aa0c9c40460f869dee9852af5e12
 
 ## Tools Used
 * Windows Server
