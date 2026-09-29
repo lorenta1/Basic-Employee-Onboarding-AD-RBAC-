@@ -2,11 +2,9 @@
 # Basic Employee Onboarding (AD)(RBAC)
 
 ## Problem Statement
-[Provide 3 to 5 sentences describing what was broken at Northstar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
-
+* The problem in this project involves a fictional company called Northstar Medical Group. Northstar Medical Group's identity infrastructure was severely mishandled by their previous managed service Provider. This led to an Active Directory that was disorganized and inconsistent. The blatant mismanagement by the MSP led to Northstar Medical Group being out of compliance with HIPPA laws.
 ## Solution Overview
-[Provide 4 to 6 sentences describing what you built and how it solved the problem. Cover the new domain creation, the structural OU design, the security groups, the flat RBAC model, and how user provisioning was secured.]
-
+* I used Active Directory to create a domain in which computers, users and groups could be linked together under a single authority. I used RBAC system to ensure that users were given access according to their role.I also simulated a mock ticket where a user was given the wrong scope of access.
 ## Video Walkthrough
 [Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
 
@@ -27,8 +25,8 @@
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Solved a mock ticket where a user was given the incorrect access.
+* Learned the importance of identity and access management 
 
 
 
